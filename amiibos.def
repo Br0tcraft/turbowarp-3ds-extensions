@@ -1,0 +1,7 @@
+:NAME Amiibo
+
+:TEXT
+amiibo_supported
+amiibo_stop_scan
+amiibo_get_uid
+amiibo_start_scan
