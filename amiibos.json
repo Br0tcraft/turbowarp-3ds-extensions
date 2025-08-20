@@ -1,6 +1,6 @@
 {
   "amiibo_supported": "bool",
-  "amiibo_stop_scan": "block",
+  "amiibo_stop_scan": "void",
   "amiibo_get_uid": "string",
-  "amiibo_start_scan": "block"
+  "amiibo_start_scan": "void"
 }
